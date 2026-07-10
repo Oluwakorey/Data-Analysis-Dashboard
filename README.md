@@ -47,3 +47,7 @@ To develop an interactive Excel dashboard that transforms road accident data int
 - Used a dark-themed dashboard for improved visual appeal.
 - Arranged visualizations logically for quick interpretation.
 - Highlighted critical metrics using large KPI cards and percentage indicators.
+
+## Dasboard
+<img width="656" height="307" alt="Screenshot 2026-07-10 095403" src="https://github.com/user-attachments/assets/a0178d52-0918-4dc4-ba5b-bcff24b1d104" />
+
