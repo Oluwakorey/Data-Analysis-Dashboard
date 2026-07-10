@@ -21,29 +21,29 @@ To develop an interactive Excel dashboard that transforms road accident data int
 
 ## Project Process
 # 1. Data Preparation
-Imported the road accident dataset into Microsoft Excel.
-Reviewed the dataset for completeness and consistency.
-Cleaned missing values and standardized data fields where necessary.
-Converted the dataset into an Excel Table for easier management and analysis.
+- Imported the road accident dataset into Microsoft Excel.
+- Reviewed the dataset for completeness and consistency.
+- Cleaned missing values and standardized data fields where necessary.
+- Converted the dataset into an Excel Table for easier management and analysis.
 # 2. Data Modeling
-Created multiple Pivot Tables to summarize casualty information.
-Organized accident data by:
-Severity
-Vehicle type
-Road type
-Road surface
-Light condition
-Urban/Rural location
-Month and Year
+- Created multiple Pivot Tables to summarize casualty information.
+- Organized accident data by:
+- Severity
+- Vehicle type
+- Road type
+- Road surface
+- Light condition
+- Urban/Rural location
+- Month and Year
 # 3. Dashboard Development
-Built Pivot Charts to visualize accident patterns.
-Designed KPI cards to display key casualty figures.
-Added slicers and timelines for interactive filtering by:
-Year
-Accident Date
-Location
-Applied a consistent dashboard layout with color coding for better readability and user experience.
+- Built Pivot Charts to visualize accident patterns.
+- Designed KPI cards to display key casualty figures.
+- Added slicers and timelines for interactive filtering by:
+- Year
+- Accident Date
+- Location
+- Applied a consistent dashboard layout with color coding for better readability and user experience.
 # 4. Dashboard Design
-Used a dark-themed dashboard for improved visual appeal.
-Arranged visualizations logically for quick interpretation.
-Highlighted critical metrics using large KPI cards and percentage indicators.
+- Used a dark-themed dashboard for improved visual appeal.
+- Arranged visualizations logically for quick interpretation.
+- Highlighted critical metrics using large KPI cards and percentage indicators.
