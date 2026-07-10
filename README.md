@@ -53,8 +53,18 @@ To develop an interactive Excel dashboard that transforms road accident data int
 
 ## Project Insights
 
-The dashboard revealed that slight casualties accounted for the highest proportion of accidents, with cars being the most affected vehicle type. Most casualties occurred on urban roads, during daylight, and on dry road surfaces. Monthly trend analysis also highlighted fluctuations in casualty numbers between 2021 and 2022.
+The dashboard revealed several important insights:
 
+- A total of 255,864 casualties were recorded during the reporting period.
+- Slight casualties accounted for approximately 87% of all reported casualties, making them the most common accident outcome.
+- Fatal casualties represented less than 1% of total casualties, indicating that although relatively few accidents resulted in death, they remain a significant public safety concern.
+- Cars were involved in the majority of casualties, contributing over 203,000 cases.
+- Urban roads recorded significantly more casualties than rural roads, suggesting higher accident frequency in densely populated areas.
+- Most accidents occurred during daylight conditions, likely reflecting increased traffic volume during daytime hours.
+- Dry road surfaces accounted for the highest number of casualties, indicating that accident frequency is influenced more by traffic exposure than adverse weather conditions.
+- Single carriageways experienced the largest number of casualties among all road types.
+- Monthly casualty trends remained relatively stable across both years, with moderate fluctuations and slight increases during certain months.
+  
 ## Final Conclusion
 
 The dashboard effectively transforms road accident data into actionable insights through interactive visualizations and KPI tracking. It enables users to identify accident trends, monitor casualty patterns, and support informed road safety and traffic management decisions.
