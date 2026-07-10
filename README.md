@@ -51,3 +51,11 @@ To develop an interactive Excel dashboard that transforms road accident data int
 ## Dasboard
 <img width="656" height="307" alt="Screenshot 2026-07-10 095403" src="https://github.com/user-attachments/assets/a0178d52-0918-4dc4-ba5b-bcff24b1d104" />
 
+## Project Insights
+
+The dashboard revealed that slight casualties accounted for the highest proportion of accidents, with cars being the most affected vehicle type. Most casualties occurred on urban roads, during daylight, and on dry road surfaces. Monthly trend analysis also highlighted fluctuations in casualty numbers between 2021 and 2022.
+
+## Final Conclusion
+
+The dashboard effectively transforms road accident data into actionable insights through interactive visualizations and KPI tracking. It enables users to identify accident trends, monitor casualty patterns, and support informed road safety and traffic management decisions.
+
